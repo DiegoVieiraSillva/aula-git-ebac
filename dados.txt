@@ -1,0 +1,18 @@
+Dados do aluno
+
+-Primeiro Nome: Diego
+-Profissão: ADM
+-Cidade: Paulista
+-O que faz nas horas vaga: Atualmente, apenas estudando
+
+-Feedback sobre o curso Qualidade de Software: O curso é excelente, pois agrega 
+um pouco de tudo para quem deseja ingressar na área de TI. Ele proporciona uma 
+visão ampla das atividades de QA, permitindo compreender melhor os processos e
+ práticas da Profissão.
+
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é bastante dinâmica
+ e de fácil acesso. Ela possibilita acompanhar com clareza o andamento dos 
+ cursos em andamento. Os conteúdos são bem estruturados, diretos e sem enrolação, 
+ utilizando metodologias de fácil entendimento que facilitam a aprendizagem.
+
+Obrigado!!!
